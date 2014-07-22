@@ -1,0 +1,136 @@
+23 //Line1
+11
+23 //Line 2
+27
+23 //Line 3
+49
+23 //Line 4
+69
+23 //Line 5
+93
+50 // End
+
+1  //Line1 Load space
+32
+9  // print space
+2
+9  // print space
+2 
+9  // print space
+2
+1  // Load _
+95
+9  // print _
+2
+9
+2
+29  // System call
+24  // return
+
+1  //Line2 Load space
+32
+9  // print space
+2
+9
+2
+1  // Load /
+47
+9  // print /
+2
+1  // Load space
+32
+9  // Print space
+2
+9
+2
+1  // Load 92
+92
+9   // Print /
+2
+29   // System Call
+24   // return
+
+1  //Line3 Load  -
+45
+9   // print -
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+29  // System call
+24  // return
+
+1    //Line4 Load |
+124
+9   // print |
+2
+1   // Load space
+32
+9   // print space
+2
+9
+2
+9
+2
+9
+2
+9
+2
+9
+2
+1  // Load |
+124
+9  // print |
+2
+29  // System call
+24  // return
+
+1  //Line5 load -
+45
+9   // print -
+2
+9
+2
+1  // Load O
+79
+9  // print O
+2
+1  // Load -
+45
+9  // print -
+2
+9
+2
+1  // Load O
+79
+9   //print O
+2
+1   // Load -
+45
+9  //print -
+2
+9
+2
+29  // System Call
+24  // return
+
+.1000 //Interrupt
+30  // return
+
+.1500 // Interrupt  new line
+1  // load '/n'
+10
+9  // print '/n'
+2
+30  // return
